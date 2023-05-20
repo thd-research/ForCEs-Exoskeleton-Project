@@ -21,3 +21,6 @@ The support structure is created with topology optimization and a prototype was 
 ## Goal of this Repository
 To complement the publication titled "Design and Development of a knee rehabilitation exoskeleton with four-bar linkage actuation", so that the experimental trials, as well as results are made available and can be reproduced independently. This work has been completed by several researchers at the DIT and crediting us for any use of the material here would be very much appreciated.
 For the image/build file for the Raspberry Pi and additional work with AI Gait recognition, please contact us.
+
+
+Further organisation information under: https://zaf.th-deg.de/public/project/201
